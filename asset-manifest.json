@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kyrsova/static/css/main.5389f707.css",
+    "main.js": "/kyrsova/static/js/main.e2a774e5.js",
+    "static/media/Монтажник1 1.png": "/kyrsova/static/media/Монтажник1 1.01fc12882f5c5e65876e.png",
+    "static/media/scheme2.png": "/kyrsova/static/media/scheme2.f373ff0457d79dcb8d75.png",
+    "static/media/3NWGKcjHRZc.jpg": "/kyrsova/static/media/3NWGKcjHRZc.149c14247910e5662ad6.jpg",
+    "static/media/комната@4x 1.png": "/kyrsova/static/media/комната@4x 1.18c1a14bccbf8ac7c9b6.png",
+    "static/media/Ремонт@4x 1.png": "/kyrsova/static/media/Ремонт@4x 1.1695082406cbda9e7c3b.png",
+    "static/media/полы макет@4x 1.png": "/kyrsova/static/media/полы макет@4x 1.d38068efc8a99f56a8dd.png",
+    "static/media/logo.svg": "/kyrsova/static/media/logo.4a4397735badae1bc29d9fc91f729953.svg",
+    "static/media/header img 1.svg": "/kyrsova/static/media/header img 1.d82bd424f3759fb1e3eac379d3fa3e3a.svg",
+    "static/media/header img 2.svg": "/kyrsova/static/media/header img 2.0af00db1fb5da421355fdee352897b8b.svg",
+    "static/media/header img 3.svg": "/kyrsova/static/media/header img 3.b0c2f81049c35fa6ea74d065db25326a.svg",
+    "index.html": "/kyrsova/index.html",
+    "main.5389f707.css.map": "/kyrsova/static/css/main.5389f707.css.map",
+    "main.e2a774e5.js.map": "/kyrsova/static/js/main.e2a774e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5389f707.css",
+    "static/js/main.e2a774e5.js"
+  ]
+}
