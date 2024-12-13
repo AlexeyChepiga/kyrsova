@@ -1,0 +1,87 @@
+.estimation {
+    color: #fff;
+    background: linear-gradient(120deg, #8A6EA0 28.77%, #5F4E6A 83.28%);
+
+}
+
+.estimation_main {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.estimation_all_two img {
+    min-width: 500px;
+    margin: 0 auto;
+}
+
+.estimation_main_text {
+    display: flex;
+    gap: 2%;
+}
+
+.estimation_all_one h3 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.estimation_all_one h3 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    padding-bottom: 30px;
+}
+
+
+.estimation_all_one p {
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+
+
+/* таблица */
+.styled-table {
+    color: #fff;
+    border-collapse: collapse;
+    margin: 25px 0; 
+    font-size: 18px; 
+    min-width: 400px; 
+    border: 1px solid #ddd; 
+    text-align: left; 
+}
+
+.styled-table thead tr {
+    background-color: #009879; 
+    color: #ffffff; 
+    text-align: left; 
+    font-weight: bold; 
+}
+
+/* Границы ячеек */
+.styled-table th, .styled-table td {
+    padding: 12px 15px; 
+    border: 1px solid #ddd;
+}
+
+/* Эффект при наведении */
+.styled-table tbody tr:hover {
+    background-color: #9e7fb6 
+}
+
+/* Последняя строка */
+.styled-table tfoot {
+    font-weight: bold;
+    background-color: #f9f9f9; 
+}
+
+.estimation_bnt {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(68, 60, 73, 1);
+    width: Fixed (316px)px;
+    height: Hug (42px)px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 35px;
+    background: rgba(255, 212, 50, 1);
+}
+
